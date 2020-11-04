@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+    <string name="todo">TODO</string>
+    <string-array name="menu_makanan">
+        <item>Gulai</item>
+        <item>Iga Bakar</item>
+        <item>Nasi Goreng</item>
+        <item>Rendang</item>
+        <item>Sate</item>
+        <item>Soto</item>
+        <item>Steak</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 20.000</item>
+        <item>Rp. 40.000</item>
+        <item>Rp. 16.000</item>
+        <item>Rp. 29.000</item>
+        <item>Rp. 16.000</item>
+        <item>Rp. 12.000</item>
+        <item>Rp. 70.000</item>
+    </string-array>
+    <string-array name="description">
+        <item>Gulai Ayam dengan aroma mantap</item>
+        <item>Iga Bakar dengan harga pas nyaman dikantong</item>
+        <item>Nasi Goreng buronan para bule</item>
+        <item>Rendang dengan kuah kental khas padang</item>
+        <item>Berbagai sate sesuai keinginan</item>
+        <item>Soto khas betawi rasa duniawi</item>
+        <item>Steak mahal dengan daging wagyu</item>
+    </string-array>
+</resources>
